@@ -2,6 +2,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonstump&show_icons=true&theme=nord)](https://github.com/jonstump/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonstump&layout=compact)](https://github.com/jonstump/github-readme-stats)
+
 <!--
 **jonstump/jonstump** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
