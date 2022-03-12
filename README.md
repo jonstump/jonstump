@@ -9,7 +9,14 @@
 
 ## 🌱 I’m currently learning
 <p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/jest%20-%23c21325.svg?&style=for-the-badge&logo=jest&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/go%20-%2300add8.svg?&style=for-the-badge&logo=go&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/python%20-%233776ab.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/kubernetes%20-%23326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/jest%20-%23c21325.svg?&style=for-the-badge&logo=jest&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/go%20-%2300add8.svg?&style=for-the-badge&logo=go&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/python%20-%233776ab.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/kubernetes%20-%23326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/gitlab%20-%FCA121.svg?&style=for-the-badge&logo=gitlab&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/gitea%20-%609926.svg?&style=for-the-badge&logo=gitea&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/github%20-%181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
 </p>
 <!--
 **jonstump/jonstump** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
