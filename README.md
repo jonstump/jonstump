@@ -29,6 +29,8 @@
 <img src="https://img.shields.io/badge/gitea-609926.svg?&style=for-the-badge&logo=gitea&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
+<a href="https://www.buymeacoffee.com/jonstump" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 <!--
 **jonstump/jonstump** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
