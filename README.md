@@ -7,6 +7,7 @@
 <img src="https://img.shields.io/badge/linux%20-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/docker%20-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/gnubash%20-4EAA25.svg?&style=for-the-badge&logo=gnubash&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/angular%20-%23dd0031.svg?&style=for-the-badge&logo=angular&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
@@ -19,7 +20,6 @@
 ## 🌱 I’m currently learning
 <p>
 <img src="https://img.shields.io/badge/terraform-black?style=for-the-badge&logo=terraform&logoColor=7B42BC" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/jest%20-%23c21325.svg?&style=for-the-badge&logo=jest&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/go%20-%2300add8.svg?&style=for-the-badge&logo=go&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/python%20-%233776ab.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
