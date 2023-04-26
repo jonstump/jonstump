@@ -7,13 +7,14 @@
 <img src="https://img.shields.io/badge/linux%20-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/docker%20-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/gnubash%20-4EAA25.svg?&style=for-the-badge&logo=gnubash&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/typescript%20-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/angular%20-%23dd0031.svg?&style=for-the-badge&logo=angular&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/gitlab-FCA121.svg?&style=for-the-badge&logo=gitlab&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/typescript%20-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?&style=for-the-badge&logo=tailwindcss&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/neovim%20-57A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/tmux%20-1BB91F.svg?&style=for-the-badge&logo=tmux&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/linode%20-00A95C.svg?&style=for-the-badge&logo=linode&logoColor=white" />&nbsp;&nbsp;
@@ -28,7 +29,6 @@
 <img src="https://img.shields.io/badge/kubernetes%20-%23326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/ghost-15171A.svg?&style=for-the-badge&logo=ghost&logoColor=CED4D9" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/gitea-609926.svg?&style=for-the-badge&logo=gitea&logoColor=white" />&nbsp;&nbsp;
-
 </p>
 
 <a href="https://www.buymeacoffee.com/jonstump" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
